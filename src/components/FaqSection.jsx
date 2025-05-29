@@ -6,27 +6,32 @@ const faqs = [
   {
     question: "What products do you offer?",
     answer:
-      "We specialize in skincare, cosmetics, healthcare products, and cleaning agents. Our products are made with high-quality, eco-friendly ingredients.",
+      // "We specialize in skincare, cosmetics, healthcare products, and cleaning agents. Our products are made with high-quality, eco-friendly ingredients.",
+      "Answer here",
   },
   {
     question: "Where is your company located?",
     answer:
-      "Our head office is located at PMB CT 101 Cantonments, Accra-Ghana. You can also find us at GICEL, SCC - Weija, Accra-Ghana.",
+      // "Our head office is located at PMB CT 101 Cantonments, Accra-Ghana. You can also find us at GICEL, SCC - Weija, Accra-Ghana.",
+      "Answer here",
   },
   {
     question: "How can I place an order?",
     answer:
-      "You can place an order directly from our website. For bulk or custom orders, please contact our sales support team.",
+      // "You can place an order directly from our website. For bulk or custom orders, please contact our sales support team.",
+      "Answer here",
   },
   {
     question: "Do you offer international shipping?",
     answer:
-      "Yes, we offer international shipping to select regions. Please contact our support for details about your specific location.",
+      // "Yes, we offer international shipping to select regions. Please contact our support for details about your specific location.",
+      "Answer here",
   },
   {
     question: "How can I contact customer support?",
     answer:
-      "You can reach our support team via phone at +233 (0) 208365929 or +233 (0) 540746898, or send us an email through our contact form.",
+      // "You can reach our support team via phone at +233 (0) 208365929 or +233 (0) 540746898, or send us an email through our contact form.",
+      "Answer here",
   },
 ];
 

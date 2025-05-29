@@ -52,7 +52,7 @@ const Footer = () => {
           /> */}
 
           <h1 className="text-3xl md:text-5xl font-bold text-[#fdc500]">
-            Faivich
+            AngeWin
           </h1>
           <p className="text-sm">
             Subscribe to get the latest offers, updates, and product drops.
@@ -81,28 +81,28 @@ const Footer = () => {
           </form>
           <div className="flex justify-center md:justify-start gap-4 text-xl">
             <a
-              href="https://www.instagram.com/faivichworld/"
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FaInstagram className="hover:scale-110 transition hover:text-[#F50057]" />
             </a>
             <a
-              href="https://www.facebook.com/people/faivichworld/100088610420065/"
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FaFacebook className="hover:scale-110 transition hover:text-[#F50057]" />
             </a>
             <a
-              href="https://gh.linkedin.com/company/faivich"
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FaLinkedin className="hover:scale-110 transition hover:text-[#F50057]" />
             </a>
             <a
-              href="https://twitter.com/faivichworld"
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -169,10 +169,7 @@ const Footer = () => {
         <div className="w-full md:w-1/4 space-y-4 text-center md:text-left mt-6 md:mt-0">
           <h4 className="text-lg font-semibold text-gray-400">Contact</h4>
           <ul className="text-sm space-y-2 whitespace-nowrap">
-            <li>📍 PMB CT 101 Cantonments, Accra-Ghana</li>
-            <li>📌 GICEL, SCC - Weija, Accra-Ghana</li>
-            <li>📞 +233 (0) 208365929 / +233 (0) 540746898</li>
-            <li>📧 faivichenterprise@gmail.com</li>
+           AngeWin Contact here
           </ul>
         </div>
       </div>

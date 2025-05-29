@@ -31,13 +31,22 @@ const About = () => {
       >
         <h1 className="text-4xl md:text-6xl font-bold mb-4">Our Story</h1>
         <p className="text-lg max-w-4xl mx-auto text-gray-700">
-          Faivich Enterprise is a manufacturing and distribution company
-          specializing in producing high-quality cleaning agents/detergents,
-          skincare/cosmetics, and healthcare products. Faivich is dedicated to
-          promoting health and safety, and as a social enterprise, Faivich
-          integrates sustainability, innovation, and social inclusion into its
-          operations — creating affordable, effective, and non-toxic products
-          for homes, businesses, and industries.
+          AngeWin didn’t start in a boardroom. It started with me - a young
+          woman navigating pregnancy, heartbreak, and the weight of shame. I was
+          searching for healing in a world that offered little room for softness
+          or second chances. And so I began creating, mixing oils and butters,
+          not just for my skin but for my soul. That’s where AngeWin was born
+          from Angela and Winner, the name of the daughter I carried through it
+          all. She’s a big girl now, and so is this dream. But it hasn’t been
+          easy. AngeWin failed four times. Formulations went bad. Packaging went
+          wrong. Pricing? A mess. I spent money I didn’t have on trainings ;
+          expensive ones just to understand what I was truly building. But I
+          never stopped. Because I believed in what this could be. I believed
+          skincare could be more than a product it could be a story, a safe
+          space, a sisterhood. Today, AngeWin Beauty is here clean, handmade
+          skincare with real results and an even realer story. If you’ve ever
+          struggled with confidence, with your skin, or with your self-worth…
+          AngeWin was created with you in mind.
         </p>
       </motion.div>
 
@@ -174,7 +183,7 @@ const About = () => {
             className="w-full md:w-[45%] text-[#561256] font-[play]"
           >
             <h3 className="text-2xl md:text-3xl font-bold mb-4">
-              Why Choose Faivich
+              Why Choose AngeWin
             </h3>
             <ul className="list-disc pl-6 space-y-2 mb-6 text-gray-700">
               <li>Trusted Products</li>

@@ -166,13 +166,13 @@ const NavBar = ({ setIsBlurred, setSearchQuery }) => {
           <NavLink to={'/'}>
           
           <div className="flex flex-row items-center ">
-            <img
+            {/* <img
               src={logo}
               alt="logo"
               className=" w-6 h-6 mr-2 md:w-12 md:h-11 rounded-full"
-              />
+              /> */}
             <h1 className="text-lg md:text-[50px] font-bold logo text-[#561256]">
-              Faivich
+              AngeWin
             </h1>
           </div>
               </NavLink>

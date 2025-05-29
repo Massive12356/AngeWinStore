@@ -58,23 +58,23 @@ const Contact = () => {
           <FaEnvelope className=" size-10 md:size-20 text-[#67216D] mx-auto mb-3" />
           <h4 className="text-xl font-semibold text-[#67216D] mb-1">Support</h4>
           <p className="text-sm md:text-[15px] text-gray-700">
-            faivichenterprise@gmail.com
+            angelaagyeibea78@gmail.com
           </p>
         </motion.div>
 
-        
         <motion.div
           variants={itemVariants}
           className="bg-white md:p-15 p-5 rounded-lg shadow-md text-center"
         >
           <FaMapMarkerAlt className="size-10 md:size-20 text-[#67216D] mx-auto mb-3" />
           <h4 className="text-lg font-semibold text-[#67216D] mb-1">Address</h4>
-          <p className="text-sm md:text-[15px]  text-gray-700">
+          {/* <p className="text-sm md:text-[15px]  text-gray-700">
             PMB CT 101 Cantonments, Accra-Ghana
           </p>
           <p className="text-sm md:text-[15px]  text-gray-700">
             GICEL, SCC - Weija, Accra-Ghana.{" "}
-          </p>
+          </p> */}
+          Address Here
         </motion.div>
         <motion.div
           variants={itemVariants}
@@ -85,7 +85,7 @@ const Contact = () => {
             Contact Us
           </h4>
           <p className="text-sm md:text-[15px] text-gray-700">
-            ‪+233 (0) 208365929‬ / ‪+233 (0) 540746898‬
+            +233 241 761 132
           </p>
         </motion.div>
       </div>
@@ -108,8 +108,6 @@ const Contact = () => {
             referrerPolicy="no-referrer-when-downgrade"
           ></iframe>
         </motion.div>
-
-        
 
         {/* Contact Form */}
         <motion.form
@@ -140,8 +138,8 @@ const Contact = () => {
           </motion.button>
         </motion.form>
       </div>
-        {/* Frequently asked question component */}
-        <FaqSection/>
+      {/* Frequently asked question component */}
+      <FaqSection />
     </motion.section>
   );
 };

@@ -60,7 +60,8 @@ const SideBar = ({ isOpen, setIsOpen }) => {
         {/* Header */}
         <div className="flex justify-between items-center mb-6">
           <div className="w-20 md:w-35 ">
-            <img src={logo} alt="logo" className="rounded-lg" />
+            {/* <img src={logo} alt="logo" className="rounded-lg" /> */}
+            <p>Logo here</p>
           </div>
           {/* <h1 className="text-xl font-bold font-[play]">Dashboard</h1> */}
           <button

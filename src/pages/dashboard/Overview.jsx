@@ -88,7 +88,7 @@ const Overview = () => {
           Hello, {username}
         </h2>
         <p className="text-sm md:text-[15px] text-[#F50057] font-[play] mt-1">
-          Welcome back — here’s how <strong>Faivich </strong>is performing
+          Welcome back — here’s how <strong>AngeWin</strong> is performing
           today.
         </p>
       </motion.div>

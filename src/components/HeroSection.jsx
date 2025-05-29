@@ -9,7 +9,7 @@ import health6 from "../images/health6.jpg";
 
 const slides = [
   {
-    title: "Glow Naturally with Luxvich Skincare",
+    title: "Glow Naturally with AngeWin Skincare",
     description:
       "Nourish and protect your skin with our all-natural, dermatologically approved skincare range.",
     image: lavender,
